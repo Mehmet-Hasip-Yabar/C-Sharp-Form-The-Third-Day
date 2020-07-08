@@ -1,0 +1,10 @@
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\ücüncü-form-uygulaması\ücüncü-form-uygulaması\bin\Debug\ücüncü-form-uygulaması.exe.config
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\ücüncü-form-uygulaması\ücüncü-form-uygulaması\bin\Debug\ücüncü-form-uygulaması.exe
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\ücüncü-form-uygulaması\ücüncü-form-uygulaması\bin\Debug\ücüncü-form-uygulaması.pdb
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\ücüncü-form-uygulaması\ücüncü-form-uygulaması\obj\Debug\ücüncü-form-uygulaması.csprojAssemblyReference.cache
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\ücüncü-form-uygulaması\ücüncü-form-uygulaması\obj\Debug\ücüncü_form_uygulaması.Form1.resources
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\ücüncü-form-uygulaması\ücüncü-form-uygulaması\obj\Debug\ücüncü_form_uygulaması.Properties.Resources.resources
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\ücüncü-form-uygulaması\ücüncü-form-uygulaması\obj\Debug\ücüncü-form-uygulaması.csproj.GenerateResource.cache
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\ücüncü-form-uygulaması\ücüncü-form-uygulaması\obj\Debug\ücüncü-form-uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\ücüncü-form-uygulaması\ücüncü-form-uygulaması\obj\Debug\ücüncü-form-uygulaması.exe
+C:\Users\Celal\Desktop\Tüm Dosyalar\C#\ücüncü-form-uygulaması\ücüncü-form-uygulaması\obj\Debug\ücüncü-form-uygulaması.pdb
